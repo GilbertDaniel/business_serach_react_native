@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "food",
-    "slug": "food",
+    "name": "Awsome Food",
+    "slug": "awsome-food",
+    "description": "Business Search for food resturant",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
